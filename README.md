@@ -18,7 +18,7 @@
   <h3 align="center">Ghanari</h3>
 
   <p align="center">
-    The social network you've been loking for!
+    The social network you've been looking for!
     <br />
     <a href="https://github.com/neginhsobhani"><strong>Developed By »</strong></a>
     <br />
