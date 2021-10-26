@@ -52,18 +52,19 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-
+There are many social networks nowadays, each serving different groups of users. One of the most popular ones is `Twitter` where users can share their thoughts with the rest of the world. Twitter provides many features and is easy to use. Since it has became so popular nowadays, I have decided to develop a simple simulation of Twitter using `python` and `MySQL` as database(GUI is not developed in this project).
+Some of the practical features of twitter have been developed which are mentioned in the next part. 
+I have named my very own social network `Ghanari` which is the translation of Twitter in persian. Also each tweet is called `Ava` in this project.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+## Features
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+The features of Ghanari are mentioned below.
+
 
 
 
@@ -76,12 +77,13 @@ If you have a suggestion that would make this better, please fork the repo and c
 Don't forget to give the project a star! Thanks again!
 
 1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
+2. Create your Feature Branch (`git checkout -b feature/NewFeature`)
+3. Commit your Changes (`git commit -m 'Add some NewFeature'`)
+4. Push to the Branch (`git push origin feature/NewFeature`)
 5. Open a Pull Request
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+
 
 
 
@@ -97,9 +99,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Email:  neginhsobhani@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/neginhsobhani/Web-Programming-Homework1](https://github.com/neginhsobhani/Web-Programming-Homework1)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
