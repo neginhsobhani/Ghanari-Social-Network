@@ -128,5 +128,5 @@ Project Link: [https://github.com/neginhsobhani/Web-Programming-Homework1](https
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/negin-hajisobhani-50b7131b6/
-
+[license-url]: https://github.com/neginhsobhani/Ghanari-Social-Network/blob/main/LICENSE
 [product-screenshot]: images/screenshot.png
